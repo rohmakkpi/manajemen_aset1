@@ -1,7 +1,4 @@
-# btc_chart
-Btc Chart is an application that displays the price of bitcoin.
-
+# uts
 ## screenshot
-|ios|android|
-|---|---|
-|<img src="preview/ios.png" height="500">|<img src="preview/android.png" height="500">|
+
+![s1](https://user-images.githubusercontent.com/99937213/234171822-8c693482-a26a-4fc6-96cf-0e58b79a8891.jpg)
